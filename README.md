@@ -27,19 +27,19 @@ The project was built to answer the questions a CEO or data team would actually 
 ## 📊 Tableau Dashboards
 
 ### Executive Summary
-![Executive Summary](tableau/Executive_Summary.png)
+![Executive Summary](tableau:Executive_Summary.png)
 
 ### Sales & Revenue
-![Sales and Revenue](tableau/Sales_Revenue.png)
+![Sales and Revenue](tableau:Sales_Revenue.png)
 
 ### Customer & RFM Analysis
-![Customer RFM Analysis](tableau/Customer_RFM_Analysis.png)
+![Customer RFM Analysis](tableau:Customer_RFM_Analysis.png)
 
 ### Delivery & Logistics Performance
-![Delivery and Logistics](tableau/Delivery___Logistics_Performance.png)
+![Delivery and Logistics](tableau:Delivery___Logistics_Performance.png)
 
 ### Seller Performance
-![Seller Performance](tableau/Seller_Performance.png)
+![Seller Performance](tableau:Seller_Performance.png)
 
 ---
 
